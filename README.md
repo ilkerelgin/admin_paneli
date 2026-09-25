@@ -56,5 +56,4 @@ npm start
 ```
 Varsayılan olarak sunucu `http://localhost:3000` adresinde çalışacaktır.
 
-## Katkıda Bulunma
-Katkıda bulunmak için lütfen bir Pull Request (PR) açmadan önce değişikliklerinizi ayrı bir branch üzerinde yapın ve mevcut kod stiline uymaya özen gösterin.
+
